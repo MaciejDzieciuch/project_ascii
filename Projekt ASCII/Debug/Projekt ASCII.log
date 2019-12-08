@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  Projekt ASCII.cpp
+c:\users\maciej\desktop\new folder\projekt ascii\projekt ascii\projekt ascii.cpp(315): warning C4838: konwersja z „int” do „SHORT” wymaga konwersji zawężającej
+  Projekt ASCII.vcxproj -> C:\Users\Maciej\Desktop\New folder\Projekt ASCII\Debug\Projekt ASCII.exe
